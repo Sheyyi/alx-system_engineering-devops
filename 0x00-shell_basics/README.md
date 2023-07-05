@@ -5,3 +5,4 @@
 3-listfiles: It displays the current directory contents in long format
 4-listmorefiles: It displays the current directory contents, including hidden files, in long format
 5-listfilesdigitonly: It displays directory content with user and group IDs.
+6-firstdirectory: This creates a directory in the /tmp/ directory
