@@ -1,0 +1,1 @@
+#!/bin/bash\nsudo chown betty hello
