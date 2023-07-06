@@ -10,3 +10,4 @@
 8-James_Bond: It adds all permissions for other users while setting owner and group to no permissions.  
 9-John_Doe: It sets the mode of hello to a specified set of permissions.  
 10-mirror_permissions:  It mirrors the mode of olleh to hello.  
+11-directories_permissions: It sets the permissions of all subdirectories as executable for all users.  
