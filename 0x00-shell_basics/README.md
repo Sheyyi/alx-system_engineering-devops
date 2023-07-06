@@ -17,3 +17,4 @@
 100-lets_move: It moves all files beginning with an uppercase letter to /tmp/u.
 101-clean_emac: It deletes all files ending with ~.
 102-tree: It creates a tree of directories welcom/to/school.
+103-commas: It lists all the files and directories separated by commas, sorted, etc.
