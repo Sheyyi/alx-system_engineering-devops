@@ -16,3 +16,4 @@
 14-copy_html: It copies HTML files from the current directory to its parent directory
 100-lets_move: It moves all files beginning with an uppercase letter to /tmp/u.
 101-clean_emac: It deletes all files ending with ~.
+102-tree: It creates a tree of directories welcom/to/school.
