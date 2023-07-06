@@ -18,3 +18,4 @@
 101-clean_emac: It deletes all files ending with ~.
 102-tree: It creates a tree of directories welcom/to/school.
 103-commas: It lists all the files and directories separated by commas, sorted, etc.
+school.mgc: A magic file to detect School data filess.
