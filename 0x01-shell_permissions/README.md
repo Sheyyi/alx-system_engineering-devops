@@ -12,3 +12,4 @@
 10-mirror_permissions:  It mirrors the mode of olleh to hello.  
 11-directories_permissions: It sets the permissions of all subdirectories as executable for all users.  
 13-channge_group: It changes the group for a specified file.  
+100-change_owner_and_group: It changes the owner to vincent and the group owner to staff for all files and directories in the workinng directory.  
