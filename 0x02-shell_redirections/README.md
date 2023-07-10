@@ -8,3 +8,4 @@
 6-third_line: It prints the third line of a file.  
 8-cwd_state: It saves the output of ls -la into a file.  
 9-duplicate_last_line: It duplicates the last line of the file iacta.  
+10-no_more_js: It deletes all .js files in a directory and its subdirectories.  
