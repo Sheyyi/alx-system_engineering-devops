@@ -7,3 +7,4 @@
 5-firstlines: It prints the first 10 lines of /etc/passwd.  
 6-third_line: It prints the third line of a file.  
 8-cwd_state: It saves the output of ls -la into a file.  
+9-duplicate_last_line: It duplicates the last line of the file iacta.  
